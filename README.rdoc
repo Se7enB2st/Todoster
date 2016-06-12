@@ -1,8 +1,7 @@
 == README
 
 https://todoster-ethan-he.herokuapp.com/
-http://todomvc.com/
 
 A todoMVC application build on Ruby on Rails 4 using TDD approach. 
 
-
+http://todomvc.com/
